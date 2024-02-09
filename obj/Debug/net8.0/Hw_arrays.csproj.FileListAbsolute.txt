@@ -1,0 +1,15 @@
+D:\HW\Hw_arrays\obj\Debug\net8.0\Hw_arrays.csproj.AssemblyReference.cache
+D:\HW\Hw_arrays\obj\Debug\net8.0\Hw_arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW\Hw_arrays\obj\Debug\net8.0\Hw_arrays.AssemblyInfoInputs.cache
+D:\HW\Hw_arrays\obj\Debug\net8.0\Hw_arrays.AssemblyInfo.cs
+D:\HW\Hw_arrays\obj\Debug\net8.0\Hw_arrays.csproj.CoreCompileInputs.cache
+D:\HW\Hw_arrays\bin\Debug\net8.0\Hw_arrays.exe
+D:\HW\Hw_arrays\bin\Debug\net8.0\Hw_arrays.deps.json
+D:\HW\Hw_arrays\bin\Debug\net8.0\Hw_arrays.runtimeconfig.json
+D:\HW\Hw_arrays\bin\Debug\net8.0\Hw_arrays.dll
+D:\HW\Hw_arrays\bin\Debug\net8.0\Hw_arrays.pdb
+D:\HW\Hw_arrays\obj\Debug\net8.0\Hw_arrays.dll
+D:\HW\Hw_arrays\obj\Debug\net8.0\refint\Hw_arrays.dll
+D:\HW\Hw_arrays\obj\Debug\net8.0\Hw_arrays.pdb
+D:\HW\Hw_arrays\obj\Debug\net8.0\Hw_arrays.genruntimeconfig.cache
+D:\HW\Hw_arrays\obj\Debug\net8.0\ref\Hw_arrays.dll
